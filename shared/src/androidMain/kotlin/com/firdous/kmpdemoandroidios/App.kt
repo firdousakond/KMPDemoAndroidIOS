@@ -25,7 +25,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.firdous.kmpdemoandroidios.data.MuseumObject
 import io.kamel.image.KamelImage
 import io.kamel.image.asyncPainterResource
 

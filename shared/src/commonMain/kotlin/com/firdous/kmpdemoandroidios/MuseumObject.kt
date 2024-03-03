@@ -1,4 +1,4 @@
-package com.firdous.kmpdemoandroidios.data
+package com.firdous.kmpdemoandroidios
 
 import kotlinx.serialization.Serializable
 
